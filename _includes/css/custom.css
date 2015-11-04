@@ -1,5 +1,4 @@
 /*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
@@ -25,6 +24,10 @@ p {
 
 p.large {
     font-size: 16px;
+    line-height: 2em;
+}
+.specialties{
+    line-height: 2em;
 }
 
 a,
@@ -263,8 +266,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: center;
     color: #fff;
+    text-align: center;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
@@ -284,6 +287,14 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
+    font-style: italic;
+    line-height: 22px;
+}
+
+.intro-sublead-in {
+    margin-bottom: 25px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
     font-style: italic;
     line-height: 22px;
 }
@@ -371,7 +382,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(52,152,219,.7); /* Fallback when no plugin support */
     background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
@@ -531,6 +542,7 @@ section h3.section-subheading {
 .timeline .timeline-heading h4 {
     margin-top: 0;
     color: inherit;
+    line-height: 1.5em;
 }
 
 .timeline .timeline-heading h4.subheading {
@@ -861,4 +873,18 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.tech-logo{
+    width: 50%;
 }
