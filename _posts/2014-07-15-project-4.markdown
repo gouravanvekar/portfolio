@@ -1,0 +1,13 @@
+---
+title: Bloc Jams
+subtitle: Web design and development
+layout: default
+modal-id: 2
+img: bloc-jams.png
+thumbnail: bloc-jams-thumb.png
+alt: jams
+demo: https://ga-bloc-jams.herokuapp.com
+git: https://github.com/gouravanvekar/bloc-jams-angular
+description: A music app built using angular js framework
+
+---

@@ -276,6 +276,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	min-height: 100vh;
 }
 
 header .intro-text {

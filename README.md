@@ -1,11 +1,11 @@
 Jekyll Portfolio
 ====================
-### Website Link
+#### Website Link
 
 [Portfolio](http://www.gouravanvekar.com)
 
 =========
 
-Credits [Agency Jekyll Theme](https://y7kim.github.io/agency-jekyll-theme)
+Credits [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme)
 
 For more details, read [documentation](http://jekyllrb.com/)

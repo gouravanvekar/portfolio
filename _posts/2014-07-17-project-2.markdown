@@ -1,0 +1,13 @@
+---
+title: Test your knowledge
+subtitle: Web design and development
+layout: default
+modal-id: 3
+img: quiz.png
+thumbnail: quiz-thumb.png
+alt: quiz
+demo: https://ga-quiz-test.herokuapp.com
+git: https://github.com/gouravanvekar/quiz-app
+description: A simple quiz app built using angular js
+
+---

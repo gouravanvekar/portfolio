@@ -1,0 +1,13 @@
+---
+title: Real time voting app
+subtitle: Web design and development
+layout: default
+modal-id: 1
+img: voting.png
+thumbnail: voting-thumb.png
+alt: candidate view
+demo: https://ga-voting-app.herokuapp.com
+git: https://github.com/gouravanvekar/voting-app
+description: A simple real time voting app built using angular js
+
+---
