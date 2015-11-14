@@ -1,13 +1,13 @@
 ---
-title: Real time voting app
+title: Bloc Jams
 subtitle: Web design and development
 layout: default
-modal-id: 1
-img: voting.png
-thumbnail: voting-thumb.png
-alt: candidate view
-demo: https://ga-voting-app.herokuapp.com
-git: https://github.com/gouravanvekar/voting-app
-description: A simple real time voting app built using angular js
+modal-id: 2
+img: bloc-jams.png
+thumbnail: bloc-jams-thumb.png
+alt: jams
+demo: https://ga-bloc-jams.herokuapp.com
+git: https://github.com/gouravanvekar/bloc-jams-angular
+description: A music app built using angular js framework
 
 ---

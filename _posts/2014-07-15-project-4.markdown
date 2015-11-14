@@ -1,13 +1,13 @@
 ---
-title: Bloc Jams
-subtitle: Web design and development
+title: GatorWell Website
+subtitle: Web redesign and development
 layout: default
-modal-id: 2
-img: bloc-jams.png
-thumbnail: bloc-jams-thumb.png
-alt: jams
-demo: https://ga-bloc-jams.herokuapp.com
-git: https://github.com/gouravanvekar/bloc-jams-angular
-description: A music app built using angular js framework
+modal-id: 5
+img: gw.png
+thumbnail: gw-thumb.png
+alt: candidate view
+demo: http://gatorwell.ufsa.ufl.edu/
+git: http://gatorwell.ufsa.ufl.edu/
+description: Handled GatorWell’s website redesign process for better user experience, increasing user engagements, brand promotion and to meet the changing business requirements.
 
 ---
