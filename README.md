@@ -9,3 +9,5 @@ Jekyll Portfolio
 Credits [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme)
 
 For more details, read [documentation](http://jekyllrb.com/)
+
+Command: jekyll serve
